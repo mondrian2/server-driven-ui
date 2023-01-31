@@ -14,7 +14,3 @@ export class AppComponent implements AfterContentInit{
     this.srv.getComponents(this.dynamic.viewContainerRef)
   }
 }
-
-
-
-

@@ -29,7 +29,7 @@ export const COMPONENTS = [
       style: 'primary'
     },
     component : "ComponentFourComponent",
-    status: true
+    status: false
   },
   {
     data: {
@@ -37,7 +37,7 @@ export const COMPONENTS = [
       style: 'primary'
     },
     component : "ComponentFiveComponent",
-    status: true
+    status: false
   },
   {
     data: {
@@ -46,6 +46,6 @@ export const COMPONENTS = [
       icon: 'done'
     },
     component : "ComponentSixComponent",
-    status: true
+    status: false
   }
 ]
